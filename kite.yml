@@ -1,4 +1,5 @@
 addons:
   - postgresql
+  - mysql
 scripts:
   - rake db:migrate
