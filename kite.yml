@@ -1,4 +1,2 @@
-addons:
-  - postgresql
 scripts:
   - rake db:migrate
