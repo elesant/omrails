@@ -11,7 +11,7 @@ gem 'will_paginate'
 gem 'bootstrap-will_paginate'
 
 group :production do
-	gem 'pg'
+	gem 'mysql2'
 end
 
 group :development, :test do
